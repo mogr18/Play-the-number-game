@@ -1,0 +1,10 @@
+academy/learnprogramming/util/AttributeNames.class
+academy/learnprogramming/util/Mappings.class
+academy/learnprogramming/cntroller/GameController.class
+academy/learnprogramming/interceptor/RequestInterceptor.class
+academy/learnprogramming/config/WebConfig.class
+academy/learnprogramming/service/GameServiceImpl.class
+academy/learnprogramming/service/GameService.class
+academy/learnprogramming/util/thymeleaf/DecoupledLogicSetup.class
+academy/learnprogramming/util/ViewNames.class
+academy/learnprogramming/WebMain.class

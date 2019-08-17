@@ -1,0 +1,17 @@
+<thlogic>
+    <attr   sel ="#headId"
+            th:replace="~{fragments/head :: headFragment}" />
+    <attr   sel="#MainMessageId"
+            th:text="${__${T(academy.learnprogramming.util.AttributeNames).MAIN_MESSAGE}__}"/>
+    <attr   sel="#ResultMessageId"
+            th:text="${__${T(academy.learnprogramming.util.AttributeNames).RESULT_MESSAGE}__}"/>
+    <attr   sel ="#gameFormId"
+            th:action="@{__${T(academy.learnprogramming.util.Mappings).PLAY}__}"/>
+    <attr   sel="#footerId"
+            th:replace="~{fragments/footer :: footerFragment}"/>
+    <attr   sel="#game-title"
+            th:text="#{game.title}"/>
+    <attr   sel="#enter-guess"
+            th:text="#{game.enter.guess}"/>
+    <attr   sel ="#idSubmit" th:value="#{game.submit}"/>
+</thlogic>

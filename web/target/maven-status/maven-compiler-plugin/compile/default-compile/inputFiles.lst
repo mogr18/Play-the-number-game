@@ -1,0 +1,10 @@
+/mnt/af41b064-6712-4c8c-b8dd-420803879798/spring_and_spring_boot_applications/standard_spring/guess-the-number-game/web/src/main/java/academy/learnprogramming/util/ViewNames.java
+/mnt/af41b064-6712-4c8c-b8dd-420803879798/spring_and_spring_boot_applications/standard_spring/guess-the-number-game/web/src/main/java/academy/learnprogramming/util/thymeleaf/DecoupledLogicSetup.java
+/mnt/af41b064-6712-4c8c-b8dd-420803879798/spring_and_spring_boot_applications/standard_spring/guess-the-number-game/web/src/main/java/academy/learnprogramming/service/GameServiceImpl.java
+/mnt/af41b064-6712-4c8c-b8dd-420803879798/spring_and_spring_boot_applications/standard_spring/guess-the-number-game/web/src/main/java/academy/learnprogramming/cntroller/GameController.java
+/mnt/af41b064-6712-4c8c-b8dd-420803879798/spring_and_spring_boot_applications/standard_spring/guess-the-number-game/web/src/main/java/academy/learnprogramming/config/WebConfig.java
+/mnt/af41b064-6712-4c8c-b8dd-420803879798/spring_and_spring_boot_applications/standard_spring/guess-the-number-game/web/src/main/java/academy/learnprogramming/service/GameService.java
+/mnt/af41b064-6712-4c8c-b8dd-420803879798/spring_and_spring_boot_applications/standard_spring/guess-the-number-game/web/src/main/java/academy/learnprogramming/WebMain.java
+/mnt/af41b064-6712-4c8c-b8dd-420803879798/spring_and_spring_boot_applications/standard_spring/guess-the-number-game/web/src/main/java/academy/learnprogramming/interceptor/RequestInterceptor.java
+/mnt/af41b064-6712-4c8c-b8dd-420803879798/spring_and_spring_boot_applications/standard_spring/guess-the-number-game/web/src/main/java/academy/learnprogramming/util/Mappings.java
+/mnt/af41b064-6712-4c8c-b8dd-420803879798/spring_and_spring_boot_applications/standard_spring/guess-the-number-game/web/src/main/java/academy/learnprogramming/util/AttributeNames.java
